@@ -44,10 +44,10 @@ const CreateTrack = ({ classes }) => {
       const data = new FormData();
       data.append("file", file);
       data.append("resource_type", "raw");
-      data.append("upload_preset", "react-tracks");
-      data.append("cloud_name", "codeartistry");
+      data.append("upload_preset", "keep-track");
+      data.append("cloud_name", "izhan");
       const res = await axios.post(
-        "https://api.cloudinary.com/v1_1/codeartistry/raw/upload",
+        "https://api.cloudinary.com/v1_1/izhan/raw/upload",
         data
       );
       return res.data.url;
