@@ -1,5 +1,5 @@
 # Social Music App
-> My app will be a social music app called React-Tracks where users can upload any music they like; users within the app will be able to interact with various tracks by liking them and adding tracks to their profile, searching for tracks, adding information about their music, as well as editing and deleting their tracks.
+> A music application that allows users to upload songs and listen to them.
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The is a music app called TracksApp where users can upload and share any music they like; users within the app will be able to interact with various tracks by liking them and adding tracks to their profile, searching for tracks, adding information about their music, as well as editing and deleting their tracks.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
