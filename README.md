@@ -5,11 +5,6 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 The is a music app called TracksApp where users can upload and share any music they like; users within the app will be able to interact with various tracks by liking them and adding tracks to their profile, searching for tracks, adding information about their music, as well as editing and deleting their tracks.
