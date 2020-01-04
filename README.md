@@ -1,5 +1,5 @@
 # Social Music App
-> Here goes your awesome project description!
+> My app will be a social music app called React-Tracks where users can upload any music they like; users within the app will be able to interact with various tracks by liking them and adding tracks to their profile, searching for tracks, adding information about their music, as well as editing and deleting their tracks.
 
 ## Table of contents
 * [General info](#general-info)
