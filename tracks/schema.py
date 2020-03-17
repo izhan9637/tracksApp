@@ -124,6 +124,7 @@ class CreateLike(graphene.Mutation):
         return CreateLike(user=user, track=track)
 
 
+#Mutation Classes
 class Mutation(graphene.ObjectType):
     create_track = CreateTrack.Field()
     update_track = UpdateTrack.Field()
