@@ -1,5 +1,5 @@
 # Social Music App
-> A music application that allows users to upload songs and listen to them.
+> It is a music app called tracksApp where users can upload and share any music they like.
 
 ## Table of contents
 * [General info](#general-info)
